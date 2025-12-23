@@ -5,7 +5,7 @@ I am a **Data Engineer** with a deep interest in building scalable data pipeline
 
 - 🛠 **Data:** Python, SQL, PySpark, Pyspark SQL
 - 🌐 **Web:** React, Node.js, JavaScript
-- 🌱 Currently learning distributed computing and advanced cloud architectures.
+- ✨ Currently learning distributed computing and advanced cloud architectures.
 
 ---
 
